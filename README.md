@@ -9,7 +9,7 @@
 ### <div align="center">I am a lifelong spectator, a developer who likes to write code 👨‍💻  Work since 2020 🚀</div>  
   
 
-- 🌱  I am currently learning about spoole, amphp and reactphp.  
+- 🌱  I am currently learning about php,java,golang
   
 
 - ❓  Ask me about backend and security related technologies  
